@@ -151,3 +151,11 @@ FAQ
   follow it for your projects, just please follow it with the projects which
   use that convention.
 
+References
+----------
+
+List of documents which similarly advocate or establish a detailed and/or
+formal contribution process.
+
+1. [C4 (Collective Code Construction Contract)](https://rfc.zeromq.org/spec/42/)
+2. [How to send good pull requests on GitHub (Eli Bendersky)](https://eli.thegreenplace.net/2019/how-to-send-good-pull-requests-on-github/)
