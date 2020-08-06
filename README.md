@@ -155,7 +155,10 @@ References
 ----------
 
 List of documents which similarly advocate or establish a detailed and/or
-formal contribution process.
+formal contribution process. (Note that the processes described at the
+links below may differ from the process/guidelines described in this
+document. They are provided as references to show that
+contribution/commit/change guidelines are well-known and customarily used.)
 
 1. [C4 (Collective Code Construction Contract)](https://rfc.zeromq.org/spec/42/)
 2. [How to send good pull requests on GitHub (Eli Bendersky)](https://eli.thegreenplace.net/2019/how-to-send-good-pull-requests-on-github/)
