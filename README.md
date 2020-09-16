@@ -31,16 +31,16 @@ General guidelines
    especially true for people who just start contribute to a project.
    You can easily frustrate yourself and maintainers by posting
    "walls of code".
-3. Sometimes, there's a conflict between adding a new feature or
+3. Err on the side of a few smaller changes rather than one big. It's
+   trivial to "squash" commits together in git if needed (matter of
+   seconds). But it's order(s) of magnitude more effortful to split up
+   big, especially unrelated, changes.
+4. Sometimes, there's a conflict between adding a new feature or
    refactoring code to make it easier/better to add this new feature.
    As you already guessed, these are *two* independent changes.
    Refactor the code first, then add a new feature - in 2 separate
    commits. Or if it's not too bad, add a new feature, then refactor
    the overall code to improve it.
-4. Err on the side of a few smaller changes rather than one big. It's
-   trivial to "squash" commits together in git if needed (matter of
-   seconds). But it's order(s) of magnitude more effortful to split up
-   big, especially unrelated, changes.
 
 ### Description of commits
 
