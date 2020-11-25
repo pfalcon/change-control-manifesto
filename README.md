@@ -1,3 +1,6 @@
+![XKCD 1296: Git Commit](https://imgs.xkcd.com/comics/git_commit.png)
+*(Image courtesy of [XKCD](https://xkcd.com/1296/).)*
+
 # This project maintains a Change Control Policy
 
 *(It's assumed that you came here by a link while preparing/proposing
