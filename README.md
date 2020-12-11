@@ -166,3 +166,11 @@ contribution/commit/change guidelines are well-known and customarily used.)
 1. [C4 (Collective Code Construction Contract)](https://rfc.zeromq.org/spec/42/)
 2. [How to send good pull requests on GitHub (Eli Bendersky)](https://eli.thegreenplace.net/2019/how-to-send-good-pull-requests-on-github/)
 3. [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+4. [Keep a ChangeLog](https://github.com/olivierlacan/keep-a-changelog)
+   * This project claims: "Using commit log diffs as changelogs is a bad
+     idea: they're full of noise. Things like merge commits, commits with
+     obscure titles, documentation changes, etc.". They just conclude that
+     the only way around that is to keep ChangeLog. The change-control-manifesto
+     project disagrees with taking the sad situation with git logs for granted,
+     and seeks to change the root of the problem. Whether you keep an additional
+     ChangeLog beyond that is up to you.
